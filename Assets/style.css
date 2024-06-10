@@ -1,0 +1,24 @@
+
+.main-box {
+    height: 100vh;
+    background: #312478;
+}
+.main-input, .btn-clr {
+    width: 260px;
+    padding: 6px 8px;
+    background-color: #fff;
+    border: 1px solid #333;
+}
+.btn-clr {
+    width: 120px;
+    background-color: #3941b4;
+    color: #fff;
+}
+.form-main.d-flex.align-items-center {
+    width: 80%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    min-height: 380px;
+}
