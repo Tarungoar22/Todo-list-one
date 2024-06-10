@@ -14,11 +14,12 @@
     background-color: #3941b4;
     color: #fff;
 }
-.form-main.d-flex.align-items-center {
+.form-main {
     width: 80%;
     background: #fff;
     display: flex;
     justify-content: center;
+    align-items: start;
     padding: 20px;
     min-height: 380px;
 }
