@@ -1,7 +1,6 @@
-const addButton= document.getElementById("addButton");
-const userName= document.getElementById("userName");
-
-addButton.onclick = () =>{
-    const newNameval = userName.value
-
+let addButton= document.getElementById("addButton")
+addButton.addEventListener('click', addChapter)
+function addChapter (e){
+    console.log("hii")
 }
+addChapter()
